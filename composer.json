@@ -9,7 +9,7 @@
         "xoops/xmf": "^1.2.31",
         "symfony/polyfill-iconv": "^1.31.0",
         "symfony/polyfill-mbstring": "^1.31.0",
-        "smarty/smarty": "^4.5.5",
+        "smarty/smarty": "*",
         "boenrobot/money_format_polyfill": "^1.0.2",
         "smottt/wideimage": "^1.1.4",
         "ezyang/htmlpurifier": "^4.18",
